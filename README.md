@@ -18,4 +18,4 @@ The program requires Ruby version 2.6
 
 ## Running
 
-$ ruby pick_a_card.rb
+```$ ruby pick_a_card.rb```
